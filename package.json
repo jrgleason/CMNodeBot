@@ -1,0 +1,10 @@
+{
+  "name": "node-bot",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "johnny-five":"*",
+    "q":"*",
+    "moment":"*"
+  }
+}
